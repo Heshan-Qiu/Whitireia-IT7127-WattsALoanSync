@@ -111,7 +111,7 @@ Partial Class FormCustomer
         Me.CustomersBindingNavigator.MovePreviousItem = Me.BindingNavigatorMovePreviousItem
         Me.CustomersBindingNavigator.Name = "CustomersBindingNavigator"
         Me.CustomersBindingNavigator.PositionItem = Me.BindingNavigatorPositionItem
-        Me.CustomersBindingNavigator.Size = New System.Drawing.Size(311, 25)
+        Me.CustomersBindingNavigator.Size = New System.Drawing.Size(317, 25)
         Me.CustomersBindingNavigator.TabIndex = 0
         Me.CustomersBindingNavigator.Text = "BindingNavigator1"
         '
@@ -387,7 +387,7 @@ Partial Class FormCustomer
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(311, 292)
+        Me.ClientSize = New System.Drawing.Size(317, 290)
         Me.Controls.Add(Me.ButtonSync)
         Me.Controls.Add(Me.ButtonUpdate)
         Me.Controls.Add(CustomerIDLabel)
